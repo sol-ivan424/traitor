@@ -3,6 +3,7 @@ module github.com/liamg/traitor
 #еще одно изменение1
 go 1.18
 #изменение2 branch1
+#еще одно изменение2
 require (
 	github.com/creack/pty v1.1.18
 	github.com/google/uuid v1.3.0
