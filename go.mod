@@ -1,7 +1,9 @@
 module github.com/liamg/traitor
 #изменение1 branch2
+#изменение1 branch1
 go 1.18
 #изменение2 branch2
+#изменение2 branch1
 require (
 	github.com/creack/pty v1.1.18
 	github.com/google/uuid v1.3.0
@@ -18,3 +20,4 @@ require (
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467 // indirect
 )
 #изменение3 branch2
+#изменение3 branch1
